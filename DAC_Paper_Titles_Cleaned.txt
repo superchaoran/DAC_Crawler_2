@@ -1,0 +1,100 @@
+A Platform Selection Approach Based on Product Family Ontology Modeling
+Hybrid Power/Energy Generation System Design Through Multistage Design Optimization Problem With Complementarity Constraints
+Development of a Production Cost Estimation Framework for Product Family Design
+A Framework for Parallel Sampling of Design Space With Application to Vehicle Crashworthiness Optimization
+Decomposition-Based Assembly Synthesis of Space Frame Structures Using Joint Library
+Topology Optimization and Dynamic Performance of a Bike With Dampers
+Identifying Key Product Attributes and Their Importance Levels From Online Customer Reviews
+Product Family and Platform Portfolio Optimization
+Penalized Likelihood Kriging Model for Analysis of Computer Experiments
+Analytical Robust Design of Mechanical Systems
+Topology Optimization for Synthesizing Extrusion Based Nonlinear Transient Designs
+Microstructure-Mediated Integration of Material and Product Design: Undersea Submersible
+A Compromise Method for the Design of Parametric Polynomial Surrogate Models
+Addressing Limitations of Pareto Front in Design Under Uncertainty
+Application of Math-Based Marketing and Financial Tools in an Automated Parametric Design Framework
+A Genetic Algorithm Based Procedure for Extracting Optimal Solutions From a Morphological Chart
+Performance Optimization of Extrusion Blow Molded Parts Using Fuzzy Neural-Taguchi Method and Genetic Algorithm
+Stiffness Testing of Hydraulic Hoses
+Cross Model Shape Reuse: Copying and Pasting of Freeform Features
+Graphical Modeling Environment and Support Framework for Function-Based Conceptual Design
+Economics of Sacrificial Fixturing for CNC Machining and Rapid Manufacturing
+Low Cost Demonstrator as a Mean for Rapid Product Realization With an Electric Motorcycle Application
+Requirement Change Propagation Prediction Approach: Results From an Industry Case Study
+Distributed Compliant Model for Efficient Dynamic Simulation of Systems With Frictional Contacts
+Adaptive Orthonormal Basis Functions for High Dimensional Metamodeling With Existing Sample Points
+Feature-Based Crystal Construction in Computer-Aided Nano-Design
+An Integrated Process Planning System for Machining and On-Machine Inspection
+High Performance Dirichlet Parametrization Through Triangular Bezier Surface Interpolation for Deformation of CAE Meshes
+Robust Product Family Consolidation and Selection Using the Hypothetical Equivalents and Inequivalents Method
+Reliability Based Design Optimization With Correlated Input Variables Using Copulas
+A New Global Optimization Method for Simultaneous Computation on Expensive Black-Box Functions
+Selecting an Appropriate Metamodel: The Case for NURBs Metamodels
+An Efficient Pareto Set Identification Approach for Multi-Objective Optimization on Black-Box Functions
+Robust Optimization of an Automotive Valvetrain Using a Multiobjective Genetic Algorithm
+A Comparison of Optimized Stacked-Ply Flywheel Designs That Are Based on Different Failure Criteria
+DEVELOPMENT OF MULTI-STAGE AND HYBRID REAL-CODED GENETIC ALGORITHMS WITH ACTIVE CONSTRAINTS
+Bounded Target Cascading in Hierarchical Design Optimization
+Representing Stresses That Arise in Parallel Assemblies That Contain Imperfect Geometry Allowed by Tolerances
+Evolutionary Multi-Agent Systems: An Adaptive Approach to Optimization in Dynamic Environments
+Reducing the Number of Variables in a Response Surface Approximation: Application to Thermal Design
+An Optimal Design Method for Reducing Brake Squeal in Disc Brake Systems
+Bayesian Hierarchical Choice Modeling Framework for Capturing Heterogeneous Preferences in Engineering System Design
+Particle Swarm Methodologies for Engineering Design Optimization
+A Web Enabled Process for Accessing Customized Parametric Designs
+Resistance Based Modeling of Collaborative Design
+Exploration of the Use of Design Methods With the Design Structure Matrix for Integrating New Technologies Into Large Complex Systems
+Introduction to Compliant Long-Dwell Mechanism Synthesis Using Buckling Arc Theory
+The Mathematical Model of a Procedure for Percutaneous Annuloplasty
+Diagonal Quadratic Approximation for Parallelization of Analytical Target Cascading
+Indicator of Feasibility for Layout Problems
+Metrics-Based Approach for VR Technology Evaluation in Styling Product Design
+A Method and Software Prototype to Support On-Line Planning on CNC Machines
+Computational Methods Applied to Modelica Simulation Models in a Web Based Framework
+A Template-Based Approach for Multilevel Blast Resistant Panel Design
+A Genetic Algorithm Based Method for Product Family Design Optimization
+Application of Product Platform Design for Engineered System
+Process Planning Support System Considering Product Quality
+An Intelligent and Efficient Tree Search Algorithm for Computer-Aided Component Selection
+Exploring Heterogeneity of Customer Preference to Balance Commonality and Market Coverage
+A New Model for Wind Farm Layout Optimization With Landowner Decisions
+Probabilistic Analysis of Manufacturing Uncertainty in Turbine Blades
+The Effects of Different Specifications on the Tolerance-Maps for an Angled Face
+Aeronautical Planar Flank Milling Automation: Computing the G-Zones
+Robust Design Concept in Possibility Theory and Optimization for System With Both Random and Fuzzy Input Variables
+Exploring the Advantages of Materials Design in a Product Design Process
+Modeling Implications in Simulation-Based Design of Stents
+Finite Element Modeling and Analysis of Orthotropic Butt Welds
+Should Designers Worry About Market Systems?
+Improving the Performance of Visual Steering Commands for Multi-Dimensional Trade Space Exploration
+Conservative Prediction Via Safety Margin: Design Through Cross-Validation and Benefits of Multiple Surrogates
+Numerical and Experimental Study of Shielding Gas Orientation Effects on Particle Stream Concentration Mode in Coaxial Laser Aided Material Deposition Process
+Reduction of Non - Monomial Basis in the Dimensional Analysis of a Dynamical System
+Convex Estimators for Optimization of Kriging Model Problems
+Reliability-Based Design Optimization Methods
+Creative Design- Issues and Strategies
+Facilitating Collaborative Design: A Review on Design Representations and Workstations
+A Unified Information Model for Product Family Design Management
+Qualitative and Quantitative Sequential Sampling
+Free-Form Feature Representation and Comparison
+A Sequential Linear Programming Coordination Algorithm for Analytical Target Cascading
+Design Optimization of a Laptop Computer Using Aggregate and Mixed Logit Demand Models With Consumer Survey Data
+Universal Product Family Design Valuation in an Uncertain Market Environment
+Novel Design of a 3-DOF Parallel Manipulator for Materials Handling
+Geometric Surface Features Applied to Volumetric CAE Mesh Models
+Design of a Bimorph Driven Meander-Line Structure for Parts Feeder Application
+Error Sensitivity Analysis for Optimal Calibration of Parallel Kinematic Machines
+Robust Design Through the Use of a Hybrid Genetic Algorithm
+Simulation Model Refinement for Decision Making via a Value-of-Information Based Metric
+Evaluation of Conceptual Designs and Maintainability Incorporating Uncertainty
+Theoretical Design and Control Analysis of Reconfigurable Parallel Kinematic Machine Tools
+Experimental Damage Characterization of Hexagonal Honeycombs Subjected to In-Plane Shear Loading
+A Preliminary Study of Novice and Expert Users' Decision-Making Procedures During Visual Trade Space Exploration
+Optimization of Chemical Etching Process in Niobium Cavities
+Steps in Transforming Shapes Generated With Generative Design Into Simulation Models
+Response Surface Method Using Sequential Sampling for Reliability-Based Design Optimization
+Structural Durability Design Optimization and Its Reliability Assessment
+On the Effect of Weights in Rational Motion Design
+Optimal Packaging of Tank Turret System
+A Method and Software Tool for Automated Gearbox Synthesis
+Optimal Partitioning and Coordination Decisions in Decomposition-Based Design Optimization
